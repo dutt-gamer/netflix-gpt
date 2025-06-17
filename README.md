@@ -32,7 +32,10 @@
 - Built MovieList
 - Built MovieCard
 - TMDB Image CDN URL
-- usePopularMovies custom hook
+- usePopularMovies,useTopRatedMovies,useUpcomingMovies custom hook
+- GPT Search Page
+- GPT Search Bar
+- Multi-language feature in our App
 
 # Features
 
