@@ -1,5 +1,3 @@
-import React from "react";
-
 const VideoTitle = ({ title, overview }) => {
   return (
     <div className="w-screen aspect-video bg-gradient-to-r from-black pt-[20%] px-28 md:px-16 absolute flex gap-2 md:flex-col">
