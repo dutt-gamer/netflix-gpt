@@ -1,7 +1,6 @@
 import React from "react";
 import Login from "./Login";
 import Browse from "./Browse";
-import WatchMovie from "./WatchMovie";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
 const Body = () => {
