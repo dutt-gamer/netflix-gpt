@@ -20,7 +20,7 @@ const useTopRatedMovies = () => {
 
   useEffect(() => {
     !topRatedMovies && getTopRatedMovies();
-  }, []);
+  }, [topRatedMovies,dispatch]);
 };
 
 export default useTopRatedMovies;
