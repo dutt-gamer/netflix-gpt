@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import MovieCard from "./MovieCard";
 import WatchMovie from "./WatchMovie";
 import { API_OPTIONS } from "../utils/constants";

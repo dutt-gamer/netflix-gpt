@@ -1,5 +1,3 @@
-import React from "react";
-
 const WatchMovie = ({ videoKey, onClose, title, overview }) => {
   return (
     <div className="fixed inset-0 bg-black bg-opacity-90 flex justify-center items-center z-50 p-4">
